@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil da Gabriela Bado😁
 
+🎓 Estudante de Ciência da Computação na Unisinos  
+💻 Dev em formação, estagiando como desenvolvedora de software na SAP  
+🎨 Da Arquitetura para a TI: conectando criatividade, lógica e inovação com curiosidade e dedicação  
+
+
  <div>
    <a href="https://github.com/gsbado">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsbado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +22,7 @@
  
 <br>
  
-### Para mais informações:
+### 📬 Vamos conversar?
  
 <div> 
  <a href = "mailto:gabrielaspanemberg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
