@@ -2,7 +2,7 @@
 🎓 Computer Science student at Unisinos <br>
 💻 Dev in training, currently working as a Software Developer Intern at SAP <br>
 🎨 From Architecture to Tech: a career transition driven by creativity, logic, and innovation <br>
-⚛️ Currently studying React and experimenting with backend integrations using AI technologies.
+⚛️ Currently studying React and exploring backend integrations with AI-powered technologies
 
 ---
 
