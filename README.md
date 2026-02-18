@@ -20,10 +20,6 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gsbado&theme=material-palenight&border_radius=5&hide_longest_streak=true)](https://git.io/streak-stats)
-
  
 ### 📬 Let's connect?
  
