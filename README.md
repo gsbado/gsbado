@@ -17,6 +17,8 @@
   <img alt="Node" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsbado&layout=donut&langs_count=7&theme=radical&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
  
 ### 📬 Let's connect?
